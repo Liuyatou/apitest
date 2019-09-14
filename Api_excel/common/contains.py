@@ -1,6 +1,7 @@
 
 
 import os
+# 试试git更新后的效果
 
 # 此项目的绝对地址
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # API_3
