@@ -1,4 +1,4 @@
-#coding=utf-8
+# encoding: utf-8
 
 import sys
 sys.path.append('./')  #project根目录地址
