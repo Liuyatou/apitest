@@ -1,4 +1,4 @@
-
+#coding=utf-8
 
 import os
 # 试试git更新后的效果

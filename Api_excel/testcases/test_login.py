@@ -1,5 +1,5 @@
 
-
+#coding=utf-8
 
 import unittest
 from Api_excel.common import http_request

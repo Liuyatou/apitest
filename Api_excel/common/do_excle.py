@@ -1,3 +1,5 @@
+#coding=utf-8
+
 import openpyxl
 from Api_excel.common import http_request
 from Api_excel.common import contains

@@ -1,4 +1,4 @@
-
+#coding=utf-8
 
 import configparser
 from Api_excel.common import contains
