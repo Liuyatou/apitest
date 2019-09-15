@@ -1,5 +1,8 @@
 #coding=utf-8
 
+import sys
+sys.path.append('./')  #project根目录地址
+
 import unittest
 
 from Api_excel.common import HTMLTestRunnerNew
